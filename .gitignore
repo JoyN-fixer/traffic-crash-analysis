@@ -3,10 +3,6 @@ Crashes.csv
 Vehicles.csv
 People.csv
 
-# Optional: ignore all CSVs
-*.csv
-!*_sample.csv
-
 # Python cache
 __pycache__/
 *.pyc
